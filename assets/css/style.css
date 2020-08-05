@@ -309,10 +309,7 @@ section {
 }
 
 .contact-info div {
-    width: 410px;
-    vertical-align: top;
-    text-align: left;
-    margin: 30px 0 0 60px;
+    color: white;
 }
 
 .contact-info h3 {
@@ -374,6 +371,18 @@ section {
 
 .text-right {
     text-align: right;
+}
+
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
 }
 
 /* Media Query for smaller desktop screens and smaller*/
