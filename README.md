@@ -12,3 +12,5 @@ https://richardflores009.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Richard Flores
+
+### ç2019 Run Buddy, Inc
